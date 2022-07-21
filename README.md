@@ -1,4 +1,4 @@
-Hiya! I'm AlmostTiny, a newbie developer of various things :3
+Hiya! I'm gazebooze, a newbie developer of various things :3
 
 <!---
 AlmostTiny/AlmostTiny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
